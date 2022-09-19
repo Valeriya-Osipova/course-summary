@@ -77,3 +77,42 @@ a {
   background-color: rgba(0,0,0,0);
   border: 3px solid white;
 }
+
+.container{
+  width:1170px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+
+.back{
+  padding-left: 30px;
+  background-image: url("../img/return.png");
+  background-position: left center;
+  background-size: 20px 20px;
+  background-repeat: no-repeat;
+}
+
+.main-title{
+  margin-top: 100px;
+  padding-left: 100px;
+  font-size: 48px;
+  color: #222020;
+}
+
+.blue-titles{
+  padding-left: 180px;
+  font-size: 36px;
+  color: #2f1ce4;
+  margin-top: 100px;
+  margin-bottom: 25px;
+}
+
+.list{
+  padding-left: 200px;
+  font-size: 18px;
+}
+
+.paragraphs{
+  padding-left: 180px;
+  margin-bottom: 20px;
+}
